@@ -49,10 +49,10 @@ Steps:
 - Uploaded a test image  
 - Ran the prediction code  
 - Displayed the class and confidence score  
-
+   # Colab Test
 ![Colab Test](Car.jpg)
 
-
+# Result
 ![Result](Rusult.png)
 
 Example output:

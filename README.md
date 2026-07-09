@@ -53,6 +53,6 @@ Steps:
 ![Colab Test](Car.jpg)
 
 # Result
-![Result](Rusult.png)
+![Result](Result.png)
 
 Example output:

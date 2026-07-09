@@ -14,7 +14,7 @@ We collected images for two classes:
 
 The images include different angles and backgrounds to improve model performance.
 
-![Dataset Example](Screenshot.png)
+![Dataset Example](Screenshot_data.png)
 
 ---
 
@@ -25,8 +25,8 @@ The images were uploaded to Teachable Machine and the model was trained.
 - Uploaded training images  
 - Trained the model  
 
-![Training](screenshot.png)
-![Training](screenshot_training.png)
+![Training](screenshot_car.png)
+![Training](screenshot_airplane.png)
 
 ---
 
@@ -42,13 +42,13 @@ Generated files:
 ---
 
 ## 🧠 Step 4: Model Testing
-The model was tested using Python (or Google Colab).
+The model was tested using  ( Google Colab).
 
 Steps:
 - Loaded the trained model  
 - Input a test image  
 - Generated prediction and confidence score  
 
-![Result](screenshot.png)
+![Result](Rusult.png)
 
 Example output:

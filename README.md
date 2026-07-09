@@ -14,7 +14,7 @@ We collected images for two classes:
 
 The images include different angles and backgrounds to improve model performance.
 
-![Dataset Example](screenshot_dataset.png)
+![Dataset Example](Screenshot.png)
 
 ---
 
@@ -25,6 +25,7 @@ The images were uploaded to Teachable Machine and the model was trained.
 - Uploaded training images  
 - Trained the model  
 
+![Training](screenshot.png)
 ![Training](screenshot_training.png)
 
 ---

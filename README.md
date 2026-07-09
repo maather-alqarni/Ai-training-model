@@ -48,11 +48,11 @@ Steps:
 - Loaded the trained model  
 - Uploaded a test image  
 - Ran the prediction code  
-- Displayed the class and confidence score  
-   # Colab Test
+- Displayed the class and confidence score
+ # Colab Test
 ![Colab Test](Car.jpg)
 
-# Result
+# Example output:
 ![Result](Result.png)
 
-Example output:
+

@@ -25,8 +25,8 @@ The images were uploaded to Teachable Machine and the model was trained.
 - Uploaded training images  
 - Trained the model  
 
-![Training](screenshot_car.png)
-![Training](screenshot_airplane.png)
+![Training](Screenshot_car.png)
+![Training](Screenshot_airplane.png)
 
 ---
 

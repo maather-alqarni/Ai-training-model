@@ -41,13 +41,17 @@ Generated files:
 
 ---
 
-## 🧠 Step 4: Model Testing
-The model was tested using  ( Google Colab).
+## 🧠 Step 4: Model Testing (Google Colab)
+The model was tested using Google Colab.
 
 Steps:
 - Loaded the trained model  
-- Input a test image  
-- Generated prediction and confidence score  
+- Uploaded a test image  
+- Ran the prediction code  
+- Displayed the class and confidence score  
+
+![Colab Test](Car.jpg)
+
 
 ![Result](Rusult.png)
 
